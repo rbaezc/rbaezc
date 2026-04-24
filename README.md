@@ -41,7 +41,7 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: Raul Alejandro Baez Camarillo(https://www.linkedin.com/in/raul-alejandro-baez-camarillo-b9970052/)
+- 💼 LinkedIn: https://www.linkedin.com/in/raul-alejandro-baez-camarillo-b9970052/
 - 🌐 Portfolio: https://raulordbaez.wordpress.com/
 
 *"Clean code is not a goal, it's a standard."*
