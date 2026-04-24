@@ -17,6 +17,7 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 | **NodeHexaGen** | Node.js | NestJS | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
 | **ReactHexaGen** | JS/TS | React | ⚪ Planned |
+| **NetHexaGen** | .NET (C#) | Minimal APIs / Controllers | ⚪ Planned |
 
 ---
 
@@ -28,6 +29,8 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 ---
 
