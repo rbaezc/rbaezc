@@ -34,7 +34,7 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-user]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rbaezc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
