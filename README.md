@@ -12,7 +12,7 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 
 | Project | Language | Framework | Status |
 | :--- | :--- | :--- | :--- |
-| [**HexaGen**](https://github.com/[your-user]/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.0) |
+| [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.0) |
 | **PyHexaGen** | Python | FastAPI | 🟡 In Progress |
 | **NodeHexaGen** | Node.js | NestJS | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
