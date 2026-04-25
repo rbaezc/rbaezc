@@ -15,7 +15,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | Project | Language | Framework | Status |
 | :--- | :--- | :--- | :--- |
 | [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.4) |
-| **PyHexaGen** | Python | FastAPI | 🟡 In Progress |
+| **PyHexaGen** | Python | FastAPI | 🟢 Production Ready (v0.1.0) |
 | **NodeHexaGen** | Node.js | NestJS | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
 | **ReactHexaGen** | JS/TS | React | ⚪ Planned |
