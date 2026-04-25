@@ -38,7 +38,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Raul Baez Camarillo(]https://www.linkedin.com/in/raul-alejandro-baez-camarillo-b9970052/)
+- 💼 LinkedIn: [Raul Baez Camarillo](https://www.linkedin.com/in/raul-alejandro-baez-camarillo-b9970052/)
 - 🌐 Portfolio: https://raulordbaez.wordpress.com/
 
 *"Clean code is not a goal, it's a standard."*
