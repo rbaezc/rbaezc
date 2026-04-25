@@ -10,6 +10,8 @@ I am a Senior Software Architect focused on solving the complexity of large-scal
 
 My mission is to eliminate "spaghetti code" by providing professional-grade generators for the most popular frameworks.
 
+If you believe in Clean Architecture, please consider starring the HexaGen repos below!
+
 | Project | Language | Framework | Status |
 | :--- | :--- | :--- | :--- |
 | [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.0) |
@@ -31,14 +33,6 @@ My mission is to eliminate "spaghetti code" by providing professional-grade gene
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbaezc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
