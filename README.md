@@ -17,9 +17,14 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.4) |
 | [**PyHexaGen**](https://github.com/rbaezc/pyhexagen) | Python | FastAPI | 🟢 Production Ready (v0.2.0) |
 | **NodeHexaGen** | Node.js | NestJS | ⚪ Planned |
+| **NestHexaGen** | NestJs | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
 | **ReactHexaGen** | JS/TS | React | ⚪ Planned |
+| **AngularHexaGen** | Angular | ⚪ Planned |
+| **VueHexaGen** | VueJs | ⚪ Planned |
 | **NetHexaGen** | .NET (C#) | Minimal APIs / Controllers | ⚪ Planned |
+| **GoHexaGen** | GoLang | ⚪ Planned |
+| **RustHexaGen** | Rust | ⚪ Planned |
 
 ---
 
@@ -30,9 +35,17 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+
+
 
 ---
 
