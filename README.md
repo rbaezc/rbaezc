@@ -20,11 +20,11 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | **NestHexaGen** | NestJs | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
 | **ReactHexaGen** | JS/TS | React | ⚪ Planned |
-| **AngularHexaGen** | Angular | ⚪ Planned |
-| **VueHexaGen** | VueJs | ⚪ Planned |
+| **AngularHexaGen** | Typescript | Angular | ⚪ Planned |
+| **VueHexaGen** | Typescript | VueJs | ⚪ Planned |
 | **NetHexaGen** | .NET (C#) | Minimal APIs / Controllers | ⚪ Planned |
-| **GoHexaGen** | GoLang | ⚪ Planned |
-| **RustHexaGen** | Rust | ⚪ Planned |
+| **GoHexaGen** | GoLang | - | ⚪ Planned |
+| **RustHexaGen** | Rust | - | ⚪ Planned |
 
 ---
 
