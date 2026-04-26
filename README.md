@@ -16,15 +16,15 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | :--- | :--- | :--- | :--- |
 | [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.4) |
 | [**PyHexaGen**](https://github.com/rbaezc/pyhexagen) | Python | FastAPI | 🟢 Production Ready (v0.2.0) |
-| **NodeHexaGen** | Node.js | NestJS | ⚪ Planned |
-| **NestHexaGen** | NestJs | ⚪ Planned |
+| **NodeHexaGen** | TypeScript/JS | Agnostic (Fastify, Express, Koa) | ⚪ Planned |
+| **NestHexaGen** | TypeScript | NestJs | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
-| **ReactHexaGen** | JS/TS | React | ⚪ Planned |
-| **AngularHexaGen** | Typescript | Angular | ⚪ Planned |
-| **VueHexaGen** | Typescript | VueJs | ⚪ Planned |
+| **ReactHexaGen** | JS/TypeScript | React | ⚪ Planned |
+| **AngularHexaGen** | TypeScript | Angular | ⚪ Planned |
+| **VueHexaGen** | TypeScript | VueJs | ⚪ Planned |
 | **NetHexaGen** | .NET (C#) | Minimal APIs / Controllers | ⚪ Planned |
-| **GoHexaGen** | GoLang | - | ⚪ Planned |
-| **RustHexaGen** | Rust | - | ⚪ Planned |
+| **GoHexaGen** | GoLang | Agnostic (Gin, Fiber, Stdlib) | ⚪ Planned |
+| **RustHexaGen** | Rust | Agnostic (Axum, Actix) | ⚪ Planned |
 
 ---
 
