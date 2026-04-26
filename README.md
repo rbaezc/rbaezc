@@ -19,7 +19,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | **NodeHexaGen** | TypeScript/JS | Agnostic (Fastify, Express, Koa) | ⚪ Planned |
 | **NestHexaGen** | TypeScript | NestJs | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
-| **ReactHexaGen** | JS/TypeScript | React | ⚪ Planned |
+| **ReactHexaGen** | TypeScript/JS | React | ⚪ Planned |
 | **AngularHexaGen** | TypeScript | Angular | ⚪ Planned |
 | **VueHexaGen** | TypeScript | VueJs | ⚪ Planned |
 | **NetHexaGen** | .NET (C#) | Minimal APIs / Controllers | ⚪ Planned |
