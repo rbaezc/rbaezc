@@ -16,7 +16,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | :--- | :--- | :--- | :--- |
 | [**HexaGen**](https://github.com/rbaezc/hexagen) | Elixir | Phoenix | 🟢 Production Ready (v0.1.4) |
 | [**PyHexaGen**](https://github.com/rbaezc/pyhexagen) | Python | FastAPI | 🟢 Production Ready (v0.2.0) |
-| **NodeHexaGen** | TypeScript/JS | Agnostic (Fastify, Express, Koa) | ⚪ Planned |
+| [**NodeHexaGen**](https://github.com/rbaezc/nodehexagen) | TypeScript/JS | Agnostic (Fastify, Express, Koa) | 🟢 Production Ready (v0.1.0) |
 | **NestHexaGen** | TypeScript | NestJs | ⚪ Planned |
 | **LaraHexaGen** | PHP | Laravel | ⚪ Planned |
 | **ReactHexaGen** | TypeScript/JS | React | ⚪ Planned |
