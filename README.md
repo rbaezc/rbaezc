@@ -23,7 +23,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | **AngularHexaGen** | TypeScript | Angular | ⚪ Planned |
 | **VueHexaGen** | TypeScript | VueJs | ⚪ Planned |
 | [**NetHexaGen**](https://github.com/rbaezc/nethexagen) | .NET (C#) | Minimal APIs / Controllers | 🟢 Production Ready (v1.0.1) |
-| **GoHexaGen** | GoLang | Agnostic (Gin, Fiber, Stdlib) | ⚪ Planned |
+| [**GoHexaGen**](https://github.com/rbaezc/gohexagen) | GoLang | Agnostic (Gin, Fiber, Stdlib) | 🟢 Production Ready (v1.0.1) |
 | [**RustHexaGen**](https://github.com/rbaezc/rusthexagen) | Rust | Agnostic (Axum, Actix) | 🟢 Production Ready (v1.0.1) |
 
 ---
