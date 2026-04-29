@@ -24,7 +24,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 | **VueHexaGen** | TypeScript | VueJs | ⚪ Planned |
 | [**NetHexaGen**](https://github.com/rbaezc/nethexagen) | .NET (C#) | Minimal APIs / Controllers | 🟢 Production Ready (v1.0.1) |
 | **GoHexaGen** | GoLang | Agnostic (Gin, Fiber, Stdlib) | ⚪ Planned |
-| **RustHexaGen** | Rust | Agnostic (Axum, Actix) | ⚪ Planned |
+| [**RustHexaGen**](https://github.com/rbaezc/rusthexagen) | Rust | Agnostic (Axum, Actix) | 🟢 Production Ready (v1.0.1) |
 
 ---
 
