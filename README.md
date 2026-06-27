@@ -31,7 +31,7 @@ If you believe in Clean Architecture, please consider starring the HexaGen repos
 Now i present you, hexagen framework!
 | Project | Language | Status |
 | :--- | :--- | :--- |
-| [**hexagen framework**](https://github.com/rbaezc/hexagenframework) | C++ | 🟢 Production Ready (v0.1.0) |
+| [**hexagen framework**](https://github.com/rbaezc/hexagenframework) | C++ | 🟢 Production Ready (v2.3.0) |
 
 ## 🚀 Technical Stack
 
